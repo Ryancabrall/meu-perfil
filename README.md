@@ -40,4 +40,4 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
-é nois
+o ryan n~~ao fez nada o bryan que teve que fazer
